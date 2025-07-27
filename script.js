@@ -1,0 +1,1 @@
+// Future enhancements: Add to cart, product filtering, etc.
